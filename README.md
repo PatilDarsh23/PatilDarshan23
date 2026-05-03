@@ -38,7 +38,7 @@
 - Task tracking system for students  
 - Simple and efficient UI  
 
-👉 [View Project](https://github.com/PatilDarsh23/your-repo-link)
+👉 [View Project] https://github.com/PatilDarsh23/SolveSphere23.git
 
 ---
 
