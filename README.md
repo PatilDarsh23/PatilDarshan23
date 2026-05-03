@@ -43,7 +43,7 @@
 ---
 
 ## 📊 GitHub Stats
-![Darshan's GitHub stats](https://github-readme-stats.vercel.app/api?username=PatilDarsh23&show_icons=true&theme=tokyonight)
+![Darshan's GitHub stats] https://github.com/account
 
 ---
 
